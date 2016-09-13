@@ -5,4 +5,4 @@ Test for Github tutorial
 
 * Learning from scratch
 * Enjoy software development
-* Like to be "uncomfortable" - nice way toi learn
+* Like to be "uncomfortable" - nice way to learn
